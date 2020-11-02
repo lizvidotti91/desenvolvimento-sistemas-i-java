@@ -1,4 +1,4 @@
-# Desafio 30 dias de CSS
+# Desenvolvimento de Sistemas I - JAVA
 
 ## Objetivo
 
@@ -8,6 +8,21 @@ Exercícios da Disciplina Desenvolvimento de Sistemas I, do Curso Técnico de De
 
 *   Java; 
 *   JDK 8; 
+
+## Lista de Exercícios
+
+* [Adoão de Pet](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/adocaomain); 
+* [Conta Banco - Parte 1](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/appmain); 
+* [Conta Banco - Parte 2](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/appbank); 
+* [Geometria](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/geometriamain); 
+* [Laços de Repetição - Números Ímpares](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/numerosimpares); 
+* [Operações Aritméticas](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/operacaoaritmetica); 
+* [Passei em DS1?](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/passeiemds); 
+* [Média Aritmética](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/revisaodelogica1); 
+* [Compra de Camisas](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/revisaodelogica2); 
+* [Venda de Refrescos](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/vendarefrescomain); 
+
+Lista atualizada até o final da Disciplina.
 
 ## Autora
 
