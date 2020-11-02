@@ -1,31 +1,3 @@
----
-layout: license
-title: MIT License
-permalink: /licencas/mit/
-
-featured: true
-
-description: Licença permissiva que é curta e vai direto ao ponto. Ela permite que as pessoas façam qualquer coisa com seu código com atribuições próprias e sem garantias.
-
-how: Crie um arquivo de texto (tipicamente chamado LICENSE ou LICENSE.txt) na raiz de seu código-fonte e copie o texto da licença no arquivo. Substitua [year] pelo ano atual e [fullname] com o nome (ou nomes) dos detentores dos direitos autorais.
-
-required:
-
-  + include-copyright
-
-permitted:
-
-  + commercial-use
-  + modifications
-  + distribution
-  + sublicense
-
-forbidden:
-
-  + no-liability
-
----
-
 The MIT License (MIT)
 
 Copyright (c) [2020] [lizvidotti91]
