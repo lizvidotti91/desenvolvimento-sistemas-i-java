@@ -11,7 +11,7 @@ Exercícios da Disciplina Desenvolvimento de Sistemas I, do Curso Técnico de De
 
 ## Lista de Exercícios
 
-* [Adoão de Pet](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/adocaomain); 
+* [Adoção de Pet](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/adocaomain); 
 * [Conta Banco - Parte 1](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/appmain); 
 * [Conta Banco - Parte 2](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/appbank); 
 * [Geometria](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/geometriamain); 
@@ -21,8 +21,11 @@ Exercícios da Disciplina Desenvolvimento de Sistemas I, do Curso Técnico de De
 * [Média Aritmética](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/revisaodelogica1); 
 * [Compra de Camisas](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/revisaodelogica2); 
 * [Venda de Refrescos](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/vendarefrescomain); 
-
-Lista atualizada até o final da Disciplina.
+* [Projeto Jogo](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/projetojogo); 
+* [Robô](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/robo); 
+* [Instrumentos Musicais](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/instrumentosmusicais); 
+* [Ditados Populares - do Chaves](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/ditadospopulares); 
+* [Leitura de Arquivo](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/leituraarquivonomeeidade); 
 
 ## Autora
 
