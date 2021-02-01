@@ -12,20 +12,20 @@ Exercícios da Disciplina Desenvolvimento de Sistemas I, do Curso Técnico de De
 ## Lista de Exercícios
 
 * [Adoção de Pet](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/adocaomain); 
+* [Compra de Camisas](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/revisaodelogica2); 
 * [Conta Banco - Parte 1](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/appmain); 
 * [Conta Banco - Parte 2](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/appbank); 
+* [Ditados Populares - do Chaves](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/ditadospopulares); 
 * [Geometria](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/geometriamain); 
+* [Instrumentos Musicais](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/instrumentosmusicais); 
 * [Laços de Repetição - Números Ímpares](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/numerosimpares); 
+* [Leitura de Arquivo](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/leituraarquivonomeidade); 
+* [Média Aritmética](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/revisaodelogica1); 
 * [Operações Aritméticas](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/operacaoaritmetica); 
 * [Passei em DS1?](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/passeiemds); 
-* [Média Aritmética](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/revisaodelogica1); 
-* [Compra de Camisas](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/revisaodelogica2); 
-* [Venda de Refrescos](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/vendarefrescomain); 
 * [Projeto Jogo](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/projetojogo); 
 * [Robô](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/robo); 
-* [Instrumentos Musicais](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/instrumentosmusicais); 
-* [Ditados Populares - do Chaves](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/ditadospopulares); 
-* [Leitura de Arquivo](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/leituraarquivonomeeidade); 
+* [Venda de Refrescos](https://github.com/lizvidotti91/desenvolvimento-sistemas-i-java/tree/main/vendarefrescomain); 
 
 ## Autora
 
